@@ -1,0 +1,39 @@
+{
+  "newsList": [
+    {
+      "no": 1,
+      "type": "UPDATE",
+      "title": "Ver 0.0.2 업데이트 안내",
+      "image": "",
+      "attr": []
+    },
+    {
+      "no": 2,
+      "type": "MAINTENANCE",
+      "title": "서버 점검 안내",
+      "image": "",
+      "attr": ["2021-06-07 13:00:00 UTC+00:00", "2021-06-07 15:00:00 UTC+00:00"]
+    },
+    {
+      "no": 3,
+      "type": "WEEKLY_EVENT",
+      "title": "주간 이벤트 안내",
+      "image": "",
+      "attr": []
+    },
+    {
+      "no": 4,
+      "type": "LIMITED_SALE",
+      "title": "한정 판매 이벤트",
+      "image": "",
+      "attr": []
+    },
+    {
+      "no": 5,
+      "type": "NORMAL",
+      "title": "일반 적인 알림",
+      "image": "",
+      "attr": []
+    }
+  ]
+}
